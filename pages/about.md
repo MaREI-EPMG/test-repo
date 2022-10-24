@@ -1,3 +1,3 @@
-# Natural Gas Study
+# Energy Study
 
 Text about the study...
